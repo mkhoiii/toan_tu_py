@@ -32,7 +32,7 @@ st.write("được học lái xe: ", tuoi >= 18 and suc_khoe=='tốt')
 
 diem = 7.5
 hanh_kiem = 'Tốt'
-t.write("Được học sinh giỏi", diem >= 8 and hanh_kiem=='tốt')
+st.write("Được học sinh giỏi", diem >= 8 and hanh_kiem=='tốt')
 
 hoa_don = 250000
 tien_mat = 1000000
